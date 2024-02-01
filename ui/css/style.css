@@ -107,7 +107,7 @@ main .health .text span{
 
 main .ammo{
     position: absolute;
-    bottom: 40px;
+    bottom: 50px;
     left: 50%;
     transform: translateX(-50%);
 }
@@ -124,7 +124,7 @@ main .ammo span{
 }
 
 main .ammo img{
-    width: 43px;
+    width: 53px;
     position: absolute;
     top: 50%;
     left: 50%;
